@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pbond.github.io/rsschool-cv/cv
