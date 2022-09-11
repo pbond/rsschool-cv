@@ -57,7 +57,7 @@ I make a solutions that increase the productivity and comfort of the customer su
 * 2009-2013 – Institute of Information Technologies BSUIR
   + Modeling and Computer Design of Radio-electronic Devices
 
-* https://learn.javascript.ru/
+* [https://learn.javascript.ru/](https://learn.javascript.ru/)
   + JavaScript for programmers
   + Modern layout course
   + Vue.js course
