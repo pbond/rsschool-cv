@@ -51,3 +51,19 @@ switchTheme('light');
 I have been working as a Software Engineer for more than four years.
 
 I make a solutions that increase the productivity and comfort of the customer support team.
+
+---
+# Education
+* 2009-2013 – Institute of Information Technologies BSUIR
+  + Modeling and Computer Design of Radio-electronic Devices
+
+* https://learn.javascript.ru/
+  + JavaScript for programmers
+  + Modern layout course
+  + Vue.js course
+
+___
+# Languages
+* English: Intermediate (B1)
+* Belarusian: Native
+* Russian: Native
